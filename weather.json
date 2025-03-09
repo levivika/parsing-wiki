@@ -1,0 +1,212 @@
+{
+  "Понедельник, 10 марта": {
+    "Ночь": {
+      "temperature": "+2°",
+      "conditions": "Частично облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "759",
+      "wind-direction": "западный",
+      "wind_speed": " 10.1 км/ч",
+      "humidity": "73%"
+    },
+    "Утро": {
+      "temperature": "+1°",
+      "conditions": "Незначительная облачность",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "760",
+      "wind-direction": "западный",
+      "wind_speed": " 19.1 км/ч",
+      "humidity": "79%"
+    },
+    "День": {
+      "temperature": "+4°",
+      "conditions": "Ясно",
+      "feeling": "+1°",
+      "probability": "2%",
+      "pressure": "761",
+      "wind-direction": "западный",
+      "wind_speed": " 10.4 км/ч",
+      "humidity": "63%"
+    },
+    "Вечер": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "2%",
+      "pressure": "762",
+      "wind-direction": "западный",
+      "wind_speed": " 3.2 км/ч",
+      "humidity": "81%"
+    }
+  },
+  "Вторник, 11 марта": {
+    "Ночь": {
+      "temperature": "+2°",
+      "conditions": "Частично облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "759",
+      "wind-direction": "западный",
+      "wind_speed": " 10.1 км/ч",
+      "humidity": "73%"
+    },
+    "Утро": {
+      "temperature": "+1°",
+      "conditions": "Незначительная облачность",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "760",
+      "wind-direction": "западный",
+      "wind_speed": " 19.1 км/ч",
+      "humidity": "79%"
+    },
+    "День": {
+      "temperature": "+4°",
+      "conditions": "Ясно",
+      "feeling": "+1°",
+      "probability": "2%",
+      "pressure": "761",
+      "wind-direction": "западный",
+      "wind_speed": " 10.4 км/ч",
+      "humidity": "63%"
+    },
+    "Вечер": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "2%",
+      "pressure": "762",
+      "wind-direction": "западный",
+      "wind_speed": " 3.2 км/ч",
+      "humidity": "81%"
+    }
+  },
+  "Среда, 12 марта": {
+    "Ночь": {
+      "temperature": "+2°",
+      "conditions": "Частично облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "759",
+      "wind-direction": "западный",
+      "wind_speed": " 10.1 км/ч",
+      "humidity": "73%"
+    },
+    "Утро": {
+      "temperature": "+1°",
+      "conditions": "Незначительная облачность",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "760",
+      "wind-direction": "западный",
+      "wind_speed": " 19.1 км/ч",
+      "humidity": "79%"
+    },
+    "День": {
+      "temperature": "+4°",
+      "conditions": "Ясно",
+      "feeling": "+1°",
+      "probability": "2%",
+      "pressure": "761",
+      "wind-direction": "западный",
+      "wind_speed": " 10.4 км/ч",
+      "humidity": "63%"
+    },
+    "Вечер": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "2%",
+      "pressure": "762",
+      "wind-direction": "западный",
+      "wind_speed": " 3.2 км/ч",
+      "humidity": "81%"
+    }
+  },
+  "Четверг, 13 марта": {
+    "Ночь": {
+      "temperature": "+2°",
+      "conditions": "Частично облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "759",
+      "wind-direction": "западный",
+      "wind_speed": " 10.1 км/ч",
+      "humidity": "73%"
+    },
+    "Утро": {
+      "temperature": "+1°",
+      "conditions": "Незначительная облачность",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "760",
+      "wind-direction": "западный",
+      "wind_speed": " 19.1 км/ч",
+      "humidity": "79%"
+    },
+    "День": {
+      "temperature": "+4°",
+      "conditions": "Ясно",
+      "feeling": "+1°",
+      "probability": "2%",
+      "pressure": "761",
+      "wind-direction": "западный",
+      "wind_speed": " 10.4 км/ч",
+      "humidity": "63%"
+    },
+    "Вечер": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "2%",
+      "pressure": "762",
+      "wind-direction": "западный",
+      "wind_speed": " 3.2 км/ч",
+      "humidity": "81%"
+    }
+  },
+  "Пятница, 14 марта": {
+    "Ночь": {
+      "temperature": "+2°",
+      "conditions": "Частично облачно",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "759",
+      "wind-direction": "западный",
+      "wind_speed": " 10.1 км/ч",
+      "humidity": "73%"
+    },
+    "Утро": {
+      "temperature": "+1°",
+      "conditions": "Незначительная облачность",
+      "feeling": "-1°",
+      "probability": "2%",
+      "pressure": "760",
+      "wind-direction": "западный",
+      "wind_speed": " 19.1 км/ч",
+      "humidity": "79%"
+    },
+    "День": {
+      "temperature": "+4°",
+      "conditions": "Ясно",
+      "feeling": "+1°",
+      "probability": "2%",
+      "pressure": "761",
+      "wind-direction": "западный",
+      "wind_speed": " 10.4 км/ч",
+      "humidity": "63%"
+    },
+    "Вечер": {
+      "temperature": "+2°",
+      "conditions": "Пасмурно",
+      "feeling": "+2°",
+      "probability": "2%",
+      "pressure": "762",
+      "wind-direction": "западный",
+      "wind_speed": " 3.2 км/ч",
+      "humidity": "81%"
+    }
+  }
+}
